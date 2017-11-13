@@ -1,5 +1,3 @@
-# python_excerises
-
 Let's Practice Using Pandas
 ---------------------------
 
