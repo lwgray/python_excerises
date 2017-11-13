@@ -11,6 +11,7 @@ Use the comments in the hotel reviews file (attached json file) to do a simple s
 
 
 Install the sentiment analysis package afinn. You can find out more about it at https://pypi.python.org/pypi/afinn/0.1
+
 Create a DataFrame that includes in its rows some data from each review.
 
 Each row should include:
