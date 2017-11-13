@@ -17,13 +17,13 @@ Instructions
 
     Each row should include:
 
-    •	review author's screen name
-    •	author location
-    •	review ID
-    •	review date
-    •	review title
-    •	each rating provided by the reviewer
-    •	an afinn sentiment score for the reviewer's written comment.
+        •	review author's screen name
+        •	author location
+        •	review ID
+        •	review date
+        •	review title
+        •	each rating provided by the reviewer
+        •	an afinn sentiment score for the reviewer's written comment.
 
     3. Save the dataframe to a shelve database.
 
