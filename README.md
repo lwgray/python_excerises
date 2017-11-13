@@ -27,8 +27,11 @@ Instructions
 
     3. Save the dataframe to a shelve database.
 
-    4. Calculate descriptive statistics for the sentiment score to summarize the reviewers' feelings about their experiences with this hotel.
+    4. Calculate descriptive statistics for the sentiment score to summarize the reviewers' feelings about their
+    experiences with this hotel.
 
+    5. Plot sentiment score distributions (ie Histogram)
+    
 Extra Points:
 ------------
 If you were providing these results to the hotel, and they asked you what their sentiment scores should be compared to.
