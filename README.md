@@ -11,7 +11,8 @@ Use the comments in the hotel reviews file (data.json file) to do a simple senti
 
 Instructions
 ------------
-    1. Install the sentiment analysis package afinn. You can find out more about it at https://pypi.python.org/pypi/afinn/0.1
+    1. Install the sentiment analysis package afinn. 
+    You can find out more about it at https://pypi.python.org/pypi/afinn/0.1
 
     2. Create a DataFrame that includes in its rows some data from each review.
 
