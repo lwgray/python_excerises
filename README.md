@@ -11,15 +11,18 @@ Use the comments in the hotel reviews file (attached json file) to do a simple s
 
 
 Install the sentiment analysis package afinn. You can find out more about it at https://pypi.python.org/pypi/afinn/0.1
-Create and save in a shelve database a DataFrame that includes in its rows some data from each review. 
+Create a DataFrame that includes in its rows some data from each review.
+
 Each row should include:
-•	review author's screen name
-•	author location
-•	review ID
-•	review date
-•	review title
-•	each rating provided by the reviewer
-•	an afinn sentiment score for the reviewer's written comment.
+  •	review author's screen name
+  •	author location
+  •	review ID
+  •	review date
+  •	review title
+  •	each rating provided by the reviewer
+  •	an afinn sentiment score for the reviewer's written comment.
+
+Save the dataframe to a shelve database.
 
 Calculate descriptive statistics for the sentiment score to summarize the reviewers' feelings about their experiences with this hotel.
 
