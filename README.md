@@ -1,11 +1,13 @@
 Let's Practice Using Pandas
 ---------------------------
 
-Hotel X wants to know how customers feel about their stay at the hotel
+
 
 Objective
 -------------
-Use the comments in the hotel reviews file (attached json file) to do a simple sentiment analysis
+Hotel X wants to know how customers feel about their stay at the hotel
+
+Use the comments in the hotel reviews file (data.json file) to do a simple sentiment analysis
 
 Instructions
 ------------
