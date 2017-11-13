@@ -37,3 +37,7 @@ Extra Points:
 ------------
 If you were providing these results to the hotel, and they asked you what their sentiment scores should be compared to.
 what would you tell them?
+
+Solution:
+---------
+My solution is the file hotel_review_sentiment.ipynb
