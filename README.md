@@ -14,13 +14,14 @@ Install the sentiment analysis package afinn. You can find out more about it at 
 Create a DataFrame that includes in its rows some data from each review.
 
 Each row should include:
-  •	review author's screen name
-  •	author location
-  •	review ID
-  •	review date
-  •	review title
-  •	each rating provided by the reviewer
-  •	an afinn sentiment score for the reviewer's written comment.
+
+    •	review author's screen name
+    •	author location
+    •	review ID
+    •	review date
+    •	review title
+    •	each rating provided by the reviewer
+    •	an afinn sentiment score for the reviewer's written comment.
 
 Save the dataframe to a shelve database.
 
